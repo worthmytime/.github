@@ -22,8 +22,10 @@ WorthMyTime pomaga świadomie zarządzać pieniędzmi. Zaczęło się od pytania
 
 ## Jak dołączyć
 
+**Żeby dołączyć do organizacji, wystarczy się z nami skontaktować:** e-mail **poewer1@gmail.com** albo wiadomość na **LinkedIn** (Michał Białek).
+
 1. Przeczytaj **[ONBOARDING](https://github.com/worthmytime/worthmytime-product/blob/dev/ONBOARDING.md)** i uruchom projekt lokalnie
 2. Wybierz zadanie z etykietą [`good first issue`](https://github.com/search?q=org%3Aworthmytime+label%3A%22good+first+issue%22+state%3Aopen&type=issues) lub [`help wanted`](https://github.com/search?q=org%3Aworthmytime+label%3A%22help+wanted%22+state%3Aopen&type=issues) na [tablicy projektu](https://github.com/orgs/worthmytime/projects/1)
 3. Otwórz pull request do `dev`: dostaniesz przegląd, a po zielonych kontrolach Twoja zmiana trafi do aplikacji
 
-Szukamy osób na każdym poziomie: backend, frontend, testy, dokumentacja, UX. Masz pytanie albo pomysł? Utwórz issue w odpowiednim repozytorium.
+Szukamy osób na każdym poziomie: backend, frontend, testy, dokumentacja, UX. Masz pytanie albo pomysł? Utwórz issue w odpowiednim repozytorium albo napisz: e-mail **poewer1@gmail.com** albo wiadomość na **LinkedIn** (Michał Białek).
